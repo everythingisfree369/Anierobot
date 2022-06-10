@@ -19,7 +19,7 @@
 
 <h2 align="center";>AnieRobot-English</h2>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anieteam/AnieRobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/everythingisfree369/Anierobot)
 
 
 <h2 align="center";>OWNER</h2>
